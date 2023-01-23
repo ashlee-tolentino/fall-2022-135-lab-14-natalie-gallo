@@ -38,7 +38,7 @@ int main(){
     cout << myvector.capacity() << endl; //10
 
     myvector[7] = 7;
-    cout << myvector[7] << endl;
+    cout << myvector[7] << endl; //7
 
     return 0; 
 }
